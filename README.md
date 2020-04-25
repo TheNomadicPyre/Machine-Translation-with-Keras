@@ -3,13 +3,21 @@ This is an implementation of a series of RNNs culminating in a bidirectional RNN
 
 
 It is built in approximately the following manner:
-Import
-Tokenize
-Pad
-Preprocess
+Import,
+
+Tokenize,
+
+Pad,
+
+Preprocess,
+
+
 At this point I implemented a few different model types:
 
 A simple RNN
+
 An Embedded model
+
 A Bidirectional RNN
+
 Finally, I built multilevel Bidirectional RNN implemented with dropout and softmax activation.
