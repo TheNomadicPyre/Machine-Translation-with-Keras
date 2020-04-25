@@ -20,4 +20,4 @@ An Embedded model
 
 A Bidirectional RNN
 
-Finally, I built multilevel Bidirectional RNN implemented with dropout and softmax activation.
+Finally, I built a multilevel Bidirectional RNN implemented with dropout and softmax activation.
